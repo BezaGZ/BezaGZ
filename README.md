@@ -55,8 +55,8 @@ Other       →  DSpace · Koha · SSR · PWA · SEO
 ### GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BezaGZ&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_title=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BezaGZ&layout=compact&theme=graywhite&hide_border=true&hide_title=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BezaGZ&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_title=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BezaGZ&layout=compact&theme=graywhite&hide_border=true&hide_title=true"/>
 </p>
 
 ---
